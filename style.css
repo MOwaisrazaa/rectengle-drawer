@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#container{
+    background-color: #f3ff85;
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+}
+
+.box{
+    position: absolute;
+    background-color: green;
+}
+
+
