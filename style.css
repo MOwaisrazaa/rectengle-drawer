@@ -13,7 +13,8 @@
 
 .box{
     position: absolute;
-    background-color: green;
+    /* background-color: green; */
+    border: 1px solid gray;
 }
 
 
